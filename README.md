@@ -1,6 +1,6 @@
 # 📦 Real-Time E-commerce Price Tracker with Webhook Alerts
 
-A lightweight Python script that monitors the price of a product on Flipkart and alerts you when it drops below your target price.
+A lightweight Python script that monitors the price of a product on ecommerce and alerts you when it drops below your target price.
 
 ---
 ## 🔍 Features

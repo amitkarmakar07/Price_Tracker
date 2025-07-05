@@ -1,5 +1,3 @@
-# utils.py
-
 import requests
 from bs4 import BeautifulSoup
 from config import PRODUCT_URL, HEADERS

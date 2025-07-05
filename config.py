@@ -1,5 +1,3 @@
-# config.py
-
 PRODUCT_URL = "https://www.flipkart.com/apple-iphone-16-teal-256-gb/p/itm2b7be11cfadef?pid=MOBH4DQFYKJHESFG"
 TARGET_PRICE = 85000
 WEBHOOK_URL = "http://localhost:5000/webhook"
